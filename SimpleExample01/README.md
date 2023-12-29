@@ -11,7 +11,7 @@
 
 - 클라이언트로부터 GET 요청을 받아 더미 데이터에서 요청된 값의 존재 여부를 확인하고 결과를 반환해주세요.
     - 반환된 결과는 "true" 또는 "false"로 출력해주세요.
-- 생성된 API를 Postman을 통해 테스트합니다.
+- 생성된 API를 [Postman](https://python-programming-diary.tistory.com/175)을 통해 테스트합니다.
 - 아래 필수 조건은 맞춰주세요.
     - 포트 번호 = 3000
     - dummyData = ['동헌', '민기', '윤기', '한나'];
