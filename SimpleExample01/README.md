@@ -13,8 +13,12 @@
     - 반환된 결과는 "true" 또는 "false"로 출력해주세요.
 - 생성된 API를 [Postman](https://python-programming-diary.tistory.com/175)을 통해 테스트합니다.
 - 아래 필수 조건은 맞춰주세요.
-    - 포트 번호 = 3000
-    - dummyData = ['동헌', '민기', '윤기', '한나'];
+    - 팀원별 더미데이터 (각 팀원은 더미데이터를 본인의 이름만 넣고 API를 구현합니다.)
+        - 동헌 -> dummyData = ['동헌']
+        - 윤기 -> dummyData = ['윤기']
+        - 민기 -> dummyData = ['민기']
+        - 한나 -> dummyData = ['한나']
+    - 포트 번호 = 3000    
     - 라우트 설정 '/search'
 
 ## 📮 과제 진행 요구 사항
