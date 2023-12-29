@@ -11,7 +11,6 @@ app.get('/search', function (req, res) {
             result = true;
     });
     res.send(result);
-    console.log("data : " + data.length + ", dum : " + req.query.dummydata.length)
 });
 
 app.listen(3000)
