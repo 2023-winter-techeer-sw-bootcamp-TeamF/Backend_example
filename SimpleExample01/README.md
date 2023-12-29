@@ -14,7 +14,7 @@
     - PR을 올리실 때 PostMan의 테스트 결과도 올려주세요.
         - true와 false 모두 올려주세요.
     - Main Branch에 Merge는 진행하지 않습니다.
-- [커밋을 남기실 때](https://www.notion.so/junseopark/696f08c8a95445fd8b7d5ca74481f79b) 참고 하셔서 커밋 컨벤션을 따라주세요.
+- [커밋](https://www.notion.so/junseopark/696f08c8a95445fd8b7d5ca74481f79b)을 남기실 때 참고 하셔서 커밋 컨벤션을 따라주세요.
 
 
 ## 🚀 기능 요구 사항
