@@ -31,7 +31,7 @@
     - Main Branch에 Merge는 진행하지 않습니다.
 - [커밋](https://www.notion.so/junseopark/696f08c8a95445fd8b7d5ca74481f79b)을 남기실 때 참고 하셔서 커밋 컨벤션을 따라주세요.
 
-# includes와 forEach의 문자 검증의 차이와 그외 방법
+# includes & forEach 차이와 그외 방법
 
 - .includes 메서드:
     - .includes는 주어진 문자열이 특정 문자열을 포함하고 있는지 검사합니다.
